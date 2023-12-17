@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['toast1',['$event']]]]]}}" bindtap="__e">普通toast</button><button type="primary" data-event-opts="{{[['tap',[['toast2',['$event']]]]]}}" bindtap="__e">image toast</button></view>

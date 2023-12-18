@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['loading1',['$event']]]]]}}" bindtap="__e">showLoading</button><button type="primary" data-event-opts="{{[['tap',[['hide',['$event']]]]]}}" bindtap="__e">hideLoading</button></view>

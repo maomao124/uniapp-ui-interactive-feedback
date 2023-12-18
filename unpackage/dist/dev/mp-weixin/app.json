@@ -6,7 +6,9 @@
     "pages/index/test3/test3",
     "pages/index/test4/test4",
     "pages/index/test5/test5",
-    "pages/index/test6/test6"
+    "pages/index/test6/test6",
+    "pages/index/test7/test7",
+    "pages/index/test8/test8"
   ],
   "subPackages": [],
   "window": {
